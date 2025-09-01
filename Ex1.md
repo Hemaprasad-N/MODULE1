@@ -7,7 +7,17 @@
 ## Algorithm:
 
 ## Program:
-
+```
+#include <iostream>
+using namespace std;
+int main(){
+    string first,second;
+    cin >> first >> second;
+    
+    cout << "First Value is:" << first << endl;
+    cout << "Second Value is:" << second << endl;
+}
+```
 
 
 
