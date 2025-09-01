@@ -1,6 +1,6 @@
 # Ex.No:1
 # Ex.Name:Write a C++ Program to read two sequence of character  value from the keyboard and display the value on the monitor?
-## Date:01-09-2025
+## Date: 01-09-2025
 ## Aim:
 To write a C++ program that reads two sequences of character values (strings) from the keyboard and displays them on the monitor.
 
